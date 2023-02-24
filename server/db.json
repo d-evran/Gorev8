@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "emoji": "💯",
+    "description": "100"
+  },
+  {
+    "id": 2,
+    "emoji": "🔢",
+    "description": "1234"
+  },
+  {
+    "id": 3,
+    "emoji": "😃",
+    "description": "Siritma"
+  },
+  {
+    "id": 4,
+    "emoji": "😬",
+    "description": "Eksitme"
+  },
+  {
+    "id": 5,
+    "emoji": "😁",
+    "description": "Siritis"
+  },
+  {
+    "id": 6,
+    "emoji": "😂",
+    "description": "Neseli"
+  },
+  {
+    "id": 7,
+    "emoji": "😃",
+    "description": "Gülen Yüz"
+  },
+  {
+    "id": 8,
+    "emoji": "😄",
+    "description": "Gülümsemek"
+  },
+  {
+    "id": 9,
+    "emoji": "😅",
+    "description": "Tatli Gülüs"
+  },
+  {
+    "id": 10,
+    "emoji": "😆",
+    "description": "Kahkaha Atma"
+  },
+  {
+    "id": 11,
+    "emoji": "😇",
+    "description": "Sevimli Melek"
+  },
+  {
+    "id": 12,
+    "emoji": "😉",
+    "description": "Göz Kirpma"
+  },
+  {
+    "id": 13,
+    "emoji": "😚",
+    "description": "Utanma"
+  },
+  {
+    "id": 14,
+    "emoji": "🙂",
+    "description": "Hafif Gülümseme"
+  },
+  {
+    "id": 15,
+    "emoji": "🙃",
+    "description": "Bas Asagi Gülümseme"
+  },
+  {
+    "id": 16,
+    "emoji": "🙂",
+    "description": "Relax Gülümseme"
+  },
+  {
+    "id": 17,
+    "emoji": "😋",
+    "description": "Yum Yum Gülümseme"
+  },
+  {
+    "id": 18,
+    "emoji": "🤗",
+    "description": "Huzurlu Gülümseme"
+  },
+  {
+    "id": 19,
+    "emoji": "😍",
+    "description": "Sevgi Dolu Gülümseme"
+  },
+  {
+    "id": 20,
+    "emoji": "😘",
+    "description": "Öpücük"
+  }
+]
